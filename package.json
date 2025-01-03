@@ -1,0 +1,22 @@
+{
+    "name": "@eitb/is-string",
+    "version": "1.0.0",
+    "description": "Is the string EITB?",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/UmapathiEITB/is-string.git"
+    },
+    "keywords": [
+      "EITB"
+    ],
+    "author": "EITB",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/UmapathiEITB/is-string/issues"
+    },
+    "homepage": "https://github.com/UmapathiEITB/is-string/issues#readme"
+  }
